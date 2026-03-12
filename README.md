@@ -45,12 +45,17 @@ Add this marketplace to Claude Code:
 ```
 
 **What you get:**
-- 40 additional skills across 9 domains
+- 41 skills across 10 domains
 - Wiki: editing, authoring, verification, secret audit
 - Issue Tracking: Linear, GitHub, Jira, Azure DevOps adapters
 - Security: secret-detection, public-repo-ip-audit
 - TypeScript: strict mode, complexity refactoring, Vitest patterns
 - Writing: AI slop detection, professional language audit
+- Engineering: pre-commit gates, blast radius, code review
+- Observability: skill firing, completeness checks
+- Research: Perplexity integration, source incorporation
+- Productivity: think-twice, todo management, golden-agents
+- Experimental: self-prompting
 
 **Repository:** https://github.com/bordenet/superpowers-plus
 
