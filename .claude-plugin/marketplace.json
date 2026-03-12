@@ -25,8 +25,8 @@
         "source": "url",
         "url": "https://github.com/bordenet/superpowers-plus.git"
       },
-      "description": "Extended domain skills: wiki editing, issue tracking (Linear/GitHub/Jira/ADO), security audits, AI text quality detection",
-      "version": "2.1.0",
+      "description": "36 skills: AI slop detection/elimination, wiki editing, issue tracking (Linear/GitHub/Jira/ADO), security audits",
+      "version": "2.4.1",
       "strict": true
     },
     {
