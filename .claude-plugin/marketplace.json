@@ -20,6 +20,16 @@
       "strict": true
     },
     {
+      "name": "superpowers-plus",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bordenet/superpowers-plus.git"
+      },
+      "description": "Extended domain skills: wiki editing, issue tracking (Linear/GitHub/Jira/ADO), security audits, TypeScript patterns, AI text quality detection",
+      "version": "2.1.0",
+      "strict": true
+    },
+    {
       "name": "superpowers-chrome",
       "source": {
         "source": "url",
