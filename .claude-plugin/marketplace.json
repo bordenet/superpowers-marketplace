@@ -1,12 +1,12 @@
 {
   "name": "superpowers-marketplace",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Matt Bordenet",
+    "email": "bordenet@users.noreply.github.com"
   },
   "metadata": {
     "description": "Skills, workflows, and productivity tools",
-    "version": "1.0.13"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -25,8 +25,8 @@
         "source": "url",
         "url": "https://github.com/bordenet/superpowers-plus.git"
       },
-      "description": "36 skills: AI slop detection/elimination, wiki editing, issue tracking (Linear/GitHub/Jira/ADO), security audits",
-      "version": "2.4.1",
+      "description": "39 skills: AI slop detection/elimination, wiki editing, issue tracking (Linear/GitHub/Jira/ADO), security audits, innovation",
+      "version": "2.4.2",
       "strict": true
     },
     {
@@ -35,7 +35,7 @@
         "source": "url",
         "url": "https://github.com/obra/superpowers-chrome.git"
       },
-      "description": "BETA: VERY LIGHTLY TESTED - Direct Chrome DevTools Protocol access via 'browsing' skill. Skill mode (17 CLI commands) + MCP mode (single use_browser tool). Zero dependencies, auto-starts Chrome.",
+      "description": "BETA: VERY LIGHTLY TESTED - Direct Chrome DevTools Protocol access via browsing skill. Skill mode (17 CLI commands) + MCP mode (single use_browser tool). Zero dependencies, auto-starts Chrome.",
       "version": "1.8.0",
       "strict": true
     },
@@ -45,7 +45,7 @@
         "source": "url",
         "url": "https://github.com/obra/the-elements-of-style.git"
       },
-      "description": "Writing guidance based on William Strunk Jr.'s The Elements of Style (1918) - foundational rules for clear, concise, grammatically correct writing",
+      "description": "Writing guidance based on William Strunk Jr.s The Elements of Style (1918) - foundational rules for clear, concise, grammatically correct writing",
       "version": "1.0.0",
       "strict": true
     },
@@ -106,7 +106,7 @@
         "source": "url",
         "url": "https://github.com/obra/double-shot-latte.git"
       },
-      "description": "Stop 'Would you like me to continue?' interruptions. Automatically evaluates whether Claude should continue working using Claude-judged decision making.",
+      "description": "Stop Would you like me to continue? interruptions. Automatically evaluates whether Claude should continue working using Claude-judged decision making.",
       "version": "1.2.0",
       "strict": true
     }
