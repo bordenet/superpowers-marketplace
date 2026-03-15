@@ -33,6 +33,33 @@ Add this marketplace to Claude Code:
 
 ---
 
+### Superpowers Plus
+
+**Description:** Extended domain skills for wiki editing, issue tracking, security audits, and AI text quality
+
+**Categories:** Wiki, Issue Tracking, Security, Writing
+
+**Install:**
+```bash
+/plugin install superpowers-plus@superpowers-marketplace
+```
+
+**What you get:**
+- 36 skills across 9 domains
+- Wiki: editing, authoring, verification, secret audit
+- Issue Tracking: Linear, GitHub, Jira, Azure DevOps adapters
+- Writing: AI slop detection, professional language audit
+- Engineering: pre-commit gates, blast radius, code review
+- Productivity: think-twice, todo management, golden-agents
+- Observability: skill firing, completeness checks
+- Security: secret-detection, public-repo-ip-audit
+- Research: Perplexity integration, source incorporation
+- Experimental: self-prompting
+
+**Repository:** https://github.com/bordenet/superpowers-plus
+
+---
+
 ### Elements of Style
 
 **Description:** Writing guidance based on William Strunk Jr.'s The Elements of Style (1918)
