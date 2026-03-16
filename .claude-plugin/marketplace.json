@@ -25,8 +25,8 @@
         "source": "url",
         "url": "https://github.com/bordenet/superpowers-plus.git"
       },
-      "description": "39 skills: AI slop detection/elimination, wiki editing, issue tracking (Linear/GitHub/Jira/ADO), security audits, innovation",
-      "version": "2.4.2",
+      "description": "41 skills: AI slop detection/elimination, wiki editing, issue tracking (Linear/GitHub/Jira/ADO), security audits, innovation",
+      "version": "2.5.1",
       "strict": true
     },
     {
