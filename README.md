@@ -45,14 +45,14 @@ Add this marketplace to Claude Code:
 ```
 
 **What you get:**
-- 36 skills across 9 domains
+- 48 skills across 9 domains
 - Wiki: editing, authoring, verification, secret audit
 - Issue Tracking: Linear, GitHub, Jira, Azure DevOps adapters
 - Writing: AI slop detection, professional language audit
-- Engineering: pre-commit gates, blast radius, code review
-- Productivity: think-twice, todo management, golden-agents
+- Engineering: pre-commit gates, blast radius, code review, TypeScript patterns
+- Productivity: adversarial-search, think-twice, todo management, golden-agents
 - Observability: skill firing, completeness checks
-- Security: secret-detection, public-repo-ip-audit
+- Security: secret-detection, public-repo-ip-audit, instruction guard
 - Research: Perplexity integration, source incorporation
 - Experimental: self-prompting
 
